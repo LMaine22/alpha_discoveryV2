@@ -1,0 +1,182 @@
+[
+  {
+    "setup_id":"S0395",
+    "feature_conditions":"TSLA US Equity_Total_Call_Volume_VOLUME_TOTAL_CALL_z_ma5>ma20+NBIS US Equity_pctB<20+LLY US Equity_Volume_-_Realtime_VOLUME_z_z>1.5",
+    "support":5,
+    "accuracy_3d":1.0,
+    "avg_return_5d":0.015159805,
+    "sharpe_10d":77.1016860543,
+    "hit_rate_21d":0.6615384615
+  },
+  {
+    "setup_id":"S0350",
+    "feature_conditions":"NVDA US Equity_XLK US Equity_cDelta>80+ARKK US Equity_pctB>80+SPY US Equity_VIX Index_c60_z<-1.5",
+    "support":6,
+    "accuracy_3d":1.0,
+    "avg_return_5d":0.0336578623,
+    "sharpe_10d":35.2073524761,
+    "hit_rate_21d":0.7051282051
+  },
+  {
+    "setup_id":"S0286",
+    "feature_conditions":"AAPL US Equity_QQQ US Equity_c20<20+AAPL US Equity_Put_Call_Volume_Ratio_-_Current_Day_PUT_CALL_VOLUME_RATIO_CUR_DAY_z_z<-1.5+CO1 Comdty_pctB_ma5>ma20",
+    "support":5,
+    "accuracy_3d":0.8,
+    "avg_return_5d":0.0049713409,
+    "sharpe_10d":34.8534332508,
+    "hit_rate_21d":0.7076923077
+  },
+  {
+    "setup_id":"S0285",
+    "feature_conditions":"SPY US Equity_AAPL US Equity_rolling_beta_z<-1.5+NVDA US Equity_IVOL_Term_Structure_Slope<20+XLK US Equity_pctB_ma5>ma20",
+    "support":11,
+    "accuracy_3d":0.8181818182,
+    "avg_return_5d":0.0231676433,
+    "sharpe_10d":33.7546546181,
+    "hit_rate_21d":0.6013986014
+  },
+  {
+    "setup_id":"S0409",
+    "feature_conditions":"TSLA US Equity_Total_Call_Volume_VOLUME_TOTAL_CALL_z_z>1.5+VIX Index_QQQ US Equity_cZ_ma5>ma20+CO1 Comdty_frac_diff_0_5<20",
+    "support":5,
+    "accuracy_3d":1.0,
+    "avg_return_5d":0.0320877104,
+    "sharpe_10d":26.8812421916,
+    "hit_rate_21d":0.8461538462
+  },
+  {
+    "setup_id":"S0102",
+    "feature_conditions":"VIX Index_NVDA US Equity_c60_z>1.5+SPY US Equity_frac_diff_0_5_ma5>ma20+AAPL US Equity_Implied_Volatility_by_Moneyness_IVOL_MONEYNESS_div>80",
+    "support":15,
+    "accuracy_3d":0.8666666667,
+    "avg_return_5d":0.0234764411,
+    "sharpe_10d":26.5103521474,
+    "hit_rate_21d":0.5948717949
+  },
+  {
+    "setup_id":"S0433",
+    "feature_conditions":"ARKK US Equity_ret1_ma5>ma20+NVDA US Equity_Total_Call_Volume_VOLUME_TOTAL_CALL_z<20+VIX Index_NBIS US Equity_cDelta_z<-1.5",
+    "support":5,
+    "accuracy_3d":0.8,
+    "avg_return_5d":0.0126192186,
+    "sharpe_10d":25.4128812562,
+    "hit_rate_21d":0.8153846154
+  },
+  {
+    "setup_id":"S0288",
+    "feature_conditions":"SPY US Equity_mom5_vol20_z>1.5+TSLA US Equity_pctB_z>1.5+XLF US Equity_Put_Call_Volume_Ratio_-_Current_Day_PUT_CALL_VOLUME_RATIO_CUR_DAY_z_ma5>ma20",
+    "support":5,
+    "accuracy_3d":0.6,
+    "avg_return_5d":0.0020083554,
+    "sharpe_10d":24.6999000148,
+    "hit_rate_21d":0.5692307692
+  },
+  {
+    "setup_id":"S0027",
+    "feature_conditions":"SPY US Equity_XLF US Equity_c60>80+TSLA US Equity_Total_Put_Volume_VOLUME_TOTAL_PUT_z_ma5>ma20+VIX Index_ARKK US Equity_c60_z>1.5",
+    "support":14,
+    "accuracy_3d":0.7857142857,
+    "avg_return_5d":0.0150255984,
+    "sharpe_10d":22.7878821481,
+    "hit_rate_21d":0.6813186813
+  },
+  {
+    "setup_id":"S0032",
+    "feature_conditions":"SPY US Equity_XLK US Equity_rolling_beta_ma5>ma20+ARKK US Equity_Implied_Volatility_By_Delta_IVOL_DELTA_div>80+GLD US Equity_mom5_vol20>80",
+    "support":27,
+    "accuracy_3d":0.7777777778,
+    "avg_return_5d":0.0177741459,
+    "sharpe_10d":20.8978857956,
+    "hit_rate_21d":0.7378917379
+  },
+  {
+    "setup_id":"S0310",
+    "feature_conditions":"GLD US Equity_IVOL_Skew_Approx_z>1.5+LLY US Equity_Total_Put_Volume_VOLUME_TOTAL_PUT_z>80+LLY US Equity_IVOL_Skew_Approx_ma5>ma20",
+    "support":6,
+    "accuracy_3d":0.6666666667,
+    "avg_return_5d":0.0214147353,
+    "sharpe_10d":20.6528038051,
+    "hit_rate_21d":0.641025641
+  },
+  {
+    "setup_id":"S0403",
+    "feature_conditions":"VIX Index_LLY US Equity_rolling_beta_z<-1.5+AAPL US Equity_QQQ US Equity_c20_ma5>ma20+AAPL US Equity_pctB_z<-1.5",
+    "support":10,
+    "accuracy_3d":0.7,
+    "avg_return_5d":0.0199305445,
+    "sharpe_10d":20.6285116973,
+    "hit_rate_21d":0.8076923077
+  },
+  {
+    "setup_id":"S0477",
+    "feature_conditions":"TSLA US Equity_Implied_Volatility_by_Sigma_IVOL_SIGMA_div_ma5>ma20+XLK US Equity_Total_Call_Volume_VOLUME_TOTAL_CALL_z>80+VIX Index_GLD US Equity_cZ_z>1.5",
+    "support":11,
+    "accuracy_3d":0.7272727273,
+    "avg_return_5d":0.0029135579,
+    "sharpe_10d":20.5699098568,
+    "hit_rate_21d":0.6223776224
+  },
+  {
+    "setup_id":"S0038",
+    "feature_conditions":"SPY US Equity_mom5_vol20>80+LLY US Equity_Implied_Volatility_By_Delta_IVOL_DELTA_div>80+VIX Index_LLY US Equity_cZ>80",
+    "support":7,
+    "accuracy_3d":0.5714285714,
+    "avg_return_5d":0.0121943757,
+    "sharpe_10d":19.4179576629,
+    "hit_rate_21d":0.5494505495
+  },
+  {
+    "setup_id":"S0216",
+    "feature_conditions":"NBIS US Equity_IVOL_Term_Structure_Slope_ma5>ma20+AAPL US Equity_GLD US Equity_c20_z<-1.5+VIX Index_XLF US Equity_rolling_beta_ma5>ma20",
+    "support":11,
+    "accuracy_3d":0.6363636364,
+    "avg_return_5d":0.0074649285,
+    "sharpe_10d":17.9816293855,
+    "hit_rate_21d":0.6923076923
+  },
+  {
+    "setup_id":"S0082",
+    "feature_conditions":"NVDA US Equity_XLK US Equity_rolling_beta_z<-1.5+SPY US Equity_LLY US Equity_cZ<20+VIX Index_Total_Put_Volume_VOLUME_TOTAL_PUT_z<20",
+    "support":9,
+    "accuracy_3d":0.6666666667,
+    "avg_return_5d":0.0169565034,
+    "sharpe_10d":17.4329716999,
+    "hit_rate_21d":0.4273504274
+  },
+  {
+    "setup_id":"S0469",
+    "feature_conditions":"SPY US Equity_TSLA US Equity_rolling_beta_z<-1.5+XLF US Equity_Implied_Volatility_by_Moneyness_IVOL_MONEYNESS_div<20+AAPL US Equity_QQQ US Equity_rolling_beta<20",
+    "support":5,
+    "accuracy_3d":0.2,
+    "avg_return_5d":-0.0071113159,
+    "sharpe_10d":16.7903733946,
+    "hit_rate_21d":0.6461538462
+  },
+  {
+    "setup_id":"S0341",
+    "feature_conditions":"SPY US Equity_XLE US Equity_rolling_beta_z>1.5+SPY US Equity_XLE US Equity_cZ_z<-1.5+DXY Curncy_frac_diff_0_5>80",
+    "support":7,
+    "accuracy_3d":0.5714285714,
+    "avg_return_5d":0.007968906,
+    "sharpe_10d":15.9554257947,
+    "hit_rate_21d":0.7472527473
+  },
+  {
+    "setup_id":"S0090",
+    "feature_conditions":"SPY US Equity_Implied_Volatility_by_Moneyness_IVOL_MONEYNESS_div_ma5>ma20+SPY US Equity_XLF US Equity_rolling_beta_z<-1.5+QQQ US Equity_Total_Call_Volume_VOLUME_TOTAL_CALL_z>80",
+    "support":6,
+    "accuracy_3d":1.0,
+    "avg_return_5d":0.0221687335,
+    "sharpe_10d":15.8475696848,
+    "hit_rate_21d":0.6153846154
+  },
+  {
+    "setup_id":"S0089",
+    "feature_conditions":"NVDA US Equity_XLK US Equity_c20>80+AAPL US Equity_QQQ US Equity_cDelta>80+ARKK US Equity_Implied_Volatility_by_Sigma_IVOL_SIGMA_div_z>1.5",
+    "support":8,
+    "accuracy_3d":0.75,
+    "avg_return_5d":0.018079278,
+    "sharpe_10d":15.5337001483,
+    "hit_rate_21d":0.7211538462
+  }
+]
