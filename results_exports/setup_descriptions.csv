@@ -1,0 +1,199 @@
+C1,C2,C3
+setup_id,description,explained_description
+S0317,"When zscore_corr(20d)(DXY Curncy:PX_LAST, XLF US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S4707,"When zscore_corr(20d)(DXY Curncy:PX_LAST, XLF US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7171,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7108,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7174,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7175,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7176,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7179,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7181,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7182,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7186,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7187,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7188,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7094,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7093,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7091,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7090,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7191,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7087,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7086,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7220,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7221,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7222,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7223,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7224,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7225,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7226,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7227,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7228,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7229,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7230,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7231,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7232,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7233,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7234,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7235,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7236,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7237,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7238,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7239,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7240,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7241,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7242,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7243,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7244,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7245,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7246,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7247,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7248,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7250,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7251,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7252,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7253,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7254,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7255,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7256,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7257,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7258,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7259,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7260,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7261,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7262,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7263,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7265,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7266,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7267,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7268,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7269,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7270,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7271,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7272,"When corr(CONSSENT Index:PX_LAST, XLK US Equity:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7273,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7274,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7275,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7276,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7277,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7278,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7279,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7280,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7281,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7282,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7283,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7284,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7285,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7286,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7287,"When zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7288,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7289,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7290,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7291,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7292,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7293,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7294,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7295,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7296,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7297,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7298,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7299,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7300,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7301,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7302,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7303,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7304,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7305,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7306,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7307,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7308,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7309,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7310,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7311,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7312,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7313,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7314,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7315,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7316,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7317,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7318,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7319,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7320,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7321,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7322,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7323,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7324,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7325,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7326,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7327,"When zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7328,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7329,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr_delta(20d-60d)(CPI CHNG Index:PX_LAST, QQQ US Equity:PX_LAST) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7330,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7331,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7332,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7333,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7334,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7335,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7336,"When zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7337,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7338,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7339,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7340,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7341,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7342,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7343,"When beta(SPX Index:PX_LAST, XLE US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7344,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7345,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7346,"When corr(MLCX3CRT Index:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7347,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7348,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7349,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7350,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7351,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7352,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7353,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7354,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7355,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7356,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7358,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7359,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7360,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7361,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7362,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7363,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(LLY US Equity:PX_LAST, NVDA US Equity:PX_LAST, 60d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7364,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7365,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7366,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7367,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7368,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7369,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7370,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7371,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7372,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7373,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7374,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7375,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7376,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7377,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7378,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7379,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7380,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7381,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7382,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7383,"When beta(AAPL US Equity:PX_LAST, USSW10 Curncy:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7384,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7385,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7386,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7387,"When zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7388,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7389,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7390,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7391,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7392,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7393,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7394,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7395,"When corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high and corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7396,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and corr(CONSSENT Index:PX_LAST, QQQ US Equity:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
+S7397,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7398,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly, it may indicate a bullish outlook.",DEPRECATED
+S7399,"When corr(JOBS US Equity:PX_LAST, SPX Index:PX_LAST, 20d) surges unexpectedly and zscore_corr(20d)(GLD US Equity:PX_LAST, USGG10YR Index:PX_LAST, 60d) is very high, it may indicate a bullish outlook.",DEPRECATED
